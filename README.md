@@ -14,7 +14,7 @@ This portfolio showcases my data analysis projects, where I explore various data
 
 ### 2. [Project Name]
 - **Objective:** [Brief description of the project objective]
-- **Dataset:** [Source of the dataset]
+- **Dataset:** [Kaggle Sample WhatsApp Data](https://www.kaggle.com/datasets/sarthaknautiyal/whatsappsample/data)
 - **Analysis:** [Overview of the analysis conducted, techniques used, insights gained]
 
 ### 3. [Project Name]
